@@ -1,5 +1,5 @@
 ---
-title: Connectivity failure
+title: All hosts down
 
 draft: false
 
