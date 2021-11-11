@@ -13,7 +13,7 @@ params:
       link: https://support.example.com/
     - name: Project1
       description: test
-      link: www.jw.org
+      link: https://www.jw.org/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
